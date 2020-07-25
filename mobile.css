@@ -1,0 +1,989 @@
+/* Mobile */
+ 
+/* custom-emote */
+#article-content-wrapper #article-content img[alt='Kreygasm'],
+img[alt='Kreygasm'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/s_emote_14.png) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+ 
+span[data-param1='FrankerZ']:hover>img,
+span[data-param1='FrankerZ']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/s_emote_14.png) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+/* Kreygasm  */
+#article-content-wrapper #article-content img[alt='Kreygasm'],
+img[alt='Kreygasm'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/s_emote_03.png) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+ 
+span[data-param1='Kreygasm']:hover>img,
+span[data-param1='Kreygasm']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/s_emote_03.png) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='ArsonNoSexy'],
+img[alt='ArsonNoSexy'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_13.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+ 
+span[data-param1='ArsonNoSexy']:hover>img,
+span[data-param1='ArsonNoSexy']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_13.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='KevinTurtle'],
+img[alt='KevinTurtle'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_11.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+ 
+span[data-param1='KevinTurtle']:hover>img,
+span[data-param1='KevinTurtle']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_11.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='PJSalt'],
+img[alt='PJSalt'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_10.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='PJSalt']:hover>img,
+span[data-param1='PJSalt']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_10.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='PunchTrees'],
+img[alt='PunchTrees'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_12.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='PunchTrees']:hover>img,
+span[data-param1='PunchTrees']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_12.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='SwiftRage'],
+img[alt='SwiftRage'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_8.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='SwiftRage'],
+img[alt='SwiftRage'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_8.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+span[data-param1='SwiftRage']:hover>img,
+span[data-param1='SwiftRage']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_8.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+#article-content-wrapper #article-content img[alt='DansGame'],
+img[alt='DansGame'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_9.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='DansGame']:hover>img,
+span[data-param1='DansGame']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_9.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='GingerPower'],
+img[alt='GingerPower'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_7.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='GingerPower']:hover>img,
+span[data-param1='GingerPower']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_7.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='BCWarrior'],
+img[alt='BCWarrior'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_6.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='BCWarrior']:hover>img,
+span[data-param1='BCWarrior']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_6.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='JonCarnage'],
+img[alt='JonCarnage'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_5.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+ 
+span[data-param1='JonCarnage']:hover>img,
+span[data-param1='JonCarnage']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_5.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='RedCoat'],
+img[alt='RedCoat'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_4.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='RedCoat']:hover>img,
+span[data-param1='RedCoat']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_4.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='TheRinger'],
+img[alt='TheRinger'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_3.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+ 
+span[data-param1='TheRinger']:hover>img,
+span[data-param1='TheRinger']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_3.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='StoneLightning'],
+img[alt='StoneLightning'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_2.gif) no-repeat;
+  background-size: 80px;
+  background-position: center;
+}
+ 
+span[data-param1='StoneLightning']:hover>img,
+span[data-param1='StoneLightning']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_2.gif) no-repeat;
+  background-size: 30px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='JKanStyle'],
+img[alt='JKanStyle'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/m_emote_1.gif) no-repeat;
+  background-size: 120px;
+  background-position: center;
+}
+ 
+span[data-param1='JKanStyle']:hover>img,
+span[data-param1='JKanStyle']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/m_emote_1.gif) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='OptimizePrime'],
+img[alt='OptimizePrime'] {
+  width: 60px;
+  height: 60px !important;
+  padding-left: 60px;
+  background: url(https://dawsycat.github.io/css/s_emote_1.jpg) no-repeat;
+  background-size: 60px;
+  background-position: center;
+}
+ 
+span[data-param1='OptimizePrime']:hover>img,
+span[data-param1='OptimizePrime']>img {
+  width: 30px;
+  height: 30px;
+  padding-left: 30px;
+  background: url(https://dawsycat.github.io/css/s_emote_1.jpg) no-repeat;
+  background-size: 50px;
+  background-position: center;
+}
+ 
+/* tjskdutls emote */
+ 
+#article-content-wrapper #article-content img[alt='tjskduTomato'],
+img[alt='tjskduTomato'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/1126624/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduAh'],
+img[alt='tjskduAh'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/608810/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduCry'],
+img[alt='tjskduCry'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/1126109/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduHi'],
+img[alt='tjskduHi'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/560760/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduJju'],
+img[alt='tjskduJju'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/913809/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduLight'],
+img[alt='tjskduLight'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/1126621/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduMnet'],
+img[alt='tjskduMnet'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/494517/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduMuhae'],
+img[alt='tjskduMuhae'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/755745/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduMuruk'],
+img[alt='tjskduMuruk'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/601384/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduMuyo'],
+img[alt='tjskduMuyo'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/755744/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduRealmadridd'],
+img[alt='tjskduRealmadridd'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/497458/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduSleep'],
+img[alt='tjskduSleep'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/497439/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduSsi'],
+img[alt='tjskduSsi'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/896568/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduStairs'],
+img[alt='tjskduStairs'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/560756/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduWhat'],
+img[alt='tjskduWhat'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/630889/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduWho'],
+img[alt='tjskduWho'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/560765/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+#article-content-wrapper #article-content img[alt='tjskduBlood'],
+img[alt='tjskduBlood'] {
+  width: 56px;
+  height: 56px !important;
+  padding-left: 56px;
+  background: url(https://static-cdn.jtvnw.net/emoticons/v1/1126619/3.0) no-repeat;
+  background-size: 56px;
+  background-position: center;
+}
+ 
+ 
+#article-list>.article-list-row>.item>a.list-title>.list-writer.logged>span {
+    color: #782bf3;
+    font-weight: bold;
+}
+ 
+#article-list>.article-list-row>.item>a.list-title>small.comment-count {
+    font-size: 13px;
+    font-weight: bold;
+    color: #782bf3;
+    word-break: break-word;
+    line-height: 20px;
+    vertical-align: middle;
+    display: inline-block;
+}
+ 
+/* 배경 */
+ 
+#article-list>.article-list-row.hot{    background: linear-gradient(-45deg, #ab95d4, #fad4ff, #f6e4ff, #ab95d4);
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 20s ease infinite;
+    -moz-animation: Gradient 20s ease infinite;
+    animation: Gradient 20s ease infinite;
+}
+ 
+@-webkit-keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    50% {
+        background-position: 100% 50%
+    }
+    100% {
+        background-position: 0% 50%
+    }
+}
+ 
+@-moz-keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    50% {
+        background-position: 100% 50%
+    }
+    100% {
+        background-position: 0% 50%
+    }
+}
+ 
+@keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    50% {
+        background-position: 100% 50%
+    }
+    100% {
+        background-position: 0% 50%
+    }
+};}
+ 
+span.a-badge i.fa.fa-info-circle,
+i.fa.fa-home,
+#lastc {
+  color: #8839ce;
+}
+ 
+nav#nav>.nav-header {
+ 
+  background: linear-gradient(-45deg, #AB95D4, #782bf3);
+  color: white;
+    border-top: 4px solid #AB95D4;
+    margin-top: 12px;
+    padding: 6px 12px;
+}
+ 
+ 
+body {
+font-family: 'KHNPHU';
+  background: transparent;
+  letter-spacing: -0.05em !important;
+  font-family: 'KHNPHU', sans-serif;
+  transition:.2s;
+  }
+ 
+ 
+/* 로고 */
+ 
+header>#header-area>a>h1 {
+  background: url(https://i.postimg.cc/L5FnrZ7H/snarang-together-logo.png) no-repeat;
+  background-size: 86px auto;
+  background-repeat: no-repeat;
+  height: unset !important;
+}
+ 
+ 
+ 
+/* 검색 창 */
+ 
+header > #header-search-bar #header-search-input {
+ 
+    border: 2px solid #AB95D4;
+ 
+}
+ 
+ 
+/* 검색 버튼 */
+ 
+header>#header-area>#header-bar-link {
+    display: inline-block;
+    text-decoration: none;
+    float: left;
+    color: #782bf3;
+    padding: 0 16px 8px;
+}
+header > #header-search-bar #header-close-search-btn {
+    display: inline-block;
+    color:#782bf3;
+    padding: 0px 16px 0px 0;
+    width: 50px;
+    text-align: right;
+}
+header>#header-area>#header-search-link {
+ 
+    color: #782bf3;
+ 
+}
+ 
+header > #header-search-bar #header-search-btn {
+ 
+    color: #782bf3;
+}
+ 
+ 
+ 
+/* 트게더 로고 배너 */
+ 
+ 
+ 
+header {
+  background-color: #AB95D4;
+  border-bottom: 4px solid #782bf3;
+ 
+}
+ 
+/* 상단 배너 광고 뱃지 */
+ 
+#header-top-notice strong.notice-badge {
+ 
+    background: #AB95D4; /* 광고 뱃지 배경 색 */
+}
+ 
+ 
+/* 접속자 수 */
+ 
+#board-info #viewers-area .fa-user:before {
+    margin-top: -8px;
+    content: url(https://dawsycat.github.io/css/tomato.png);
+}
+ 
+ 
+#board-info #viewers-area {
+ 
+    color: #AB95D4;
+}
+ 
+ 
+/* 메인 배너 글 공지 좌측메뉴*/
+#board-info {
+    width: 100%;
+    line-height: unset;
+    margin: 0;
+    background: #fff;
+    border-top: 1px solid #e2e2e2;
+    border-bottom: 1px solid #e2e2e2;
+}
+#board-info>a.board-right-menu {
+    display: inline-block;
+    padding: 10px;
+    border-left: 1px solid #e2e2e2;
+    float: right;
+    text-decoration: none;
+}
+#board-info a.board-right-menu[href="/tjskdutls/profile"] {
+    display: none;
+}
+ 
+#article-list>.article-list-row.notice {
+ 
+    background-color: #ccb0ff;
+}
+ 
+/* 글 추천 수 */
+ 
+ 
+ 
+#article-list>.article-list-row>.item>.list-header>span {
+ 
+    background-color: #782bf3;
+ 
+}
+ 
+/* 댓글 수 */
+ 
+#article-list>.article-list-row>.item>a.list-title>small.comment-count {
+ 
+    color: #782bf3;
+}
+ 
+/*글쓴이*/
+#article-list>.article-list-row>.item>.list-title>.list-writer.logged>span {
+  color: #782bf3;
+}
+ 
+/* 인기글 버튼 */
+ 
+#article-list-menu>.btn.best {
+    border: 3px dashed;
+    border-radius: 5px;
+ 
+}
+ 
+/* 설정 버튼 */
+ 
+#article-list-menu>.btn.cog {
+ 
+    border-radius: 5px;
+ 
+}
+ 
+/* 글 쓰기 버튼 */
+ 
+#article-list-menu>.btn.write {
+    background-color: #AB95D4;
+    border-radius: 5px;
+}
+ 
+ 
+.btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.dropdown-toggle.btn-primary.focus, .open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover {
+    color: #fff;
+    background-color: #AB95D4;
+    border-color: transparent;
+}
+.btn-primary.active, .btn-primary:active, .open>.dropdown-toggle.btn-primary {
+    background-image: none;
+}
+.btn-primary.active, .btn-primary:active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #AB95D4;
+    border-color: transparent;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #AB95D4;
+    border-color: transparent;
+}
+ 
+/* 목록 버튼 */
+ 
+ 
+ 
+.btn {
+ 
+    border-radius: 5px;
+ 
+}
+ 
+.btn-group-sm>.btn, .btn-sm {
+ 
+    border-radius: 5px;
+ 
+}
+ 
+#board-info h1>a {
+ 
+    color: #21043d;
+ 
+}
+ 
+ 
+ 
+.btn-primary {
+  background: #AB95D4 !important;
+    border-color: transparent;
+}
+ 
+ 
+.btn {
+    border-radius: 5px;
+}
+ 
+.pagination > .active > a,
+ .pagination > .active > a:focus,
+ .pagination > .active > a:hover,
+ .pagination > .active > span,
+ .pagination > .active > span:focus,
+ .pagination > .active > span:hover {
+  background-color: #AB95D4;
+  border-color: #AB95D4;
+}
+ 
+ 
+.pagination>li>a:focus,
+.pagination>li>a:hover,
+.pagination>li>span:focus,
+.pagination>li>span:hover {
+  color: #AB95D4;
+}
+ 
+.pagination>li>a,
+.pagination>li>span {
+  color: #AB95D4;
+}
+ 
+ 
+/*categories*/
+ 
+#article-list>.article-list-row>.item>.list-title>.list-writer>span {
+  width: 120px !important;
+}
+#article-list #article-list-category > a {
+    display: inline-block;
+    padding: 11px 16px;
+   background-color: #fff ;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+}
+ 
+#article-list #article-list-category {
+    background: white;
+    width: 100%;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-right: 36px;
+}
+ 
+#article-list #article-list-category>a {
+    display: inline-block;
+    padding: 11px 16px;
+    background: #fff;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+}
+button, a {
+    cursor: pointer;
+}
+ 
+a {
+    color: #AB95D4;
+    text-decoration: none;
+}
+ 
+#article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
+    font-weight: bold;
+    color: #AB95D4;
+    cursor: pointer;
+}
+ 
+#article-reply-area #reply-real-area .reply > .reply-header {
+    background: #ccb0ff !important;
+}
+ 
+#article-reply-area > .header h5 {
+    font-size: 14px;
+    color: #AB95D4;
+    font-weight: bold;
+}
+ 
+footer {
+    background: #ccb0ff;
+    color: #AB95D4;
+    text-align: center;
+    padding: 16px 0;
+    font-size: 12px;
+}
+ 
+#article-list #article-option-area>#article-option-area-toggle-btn {
+    margin-top: 1.25px;
+margin-right: 375px;
+}
+#article-list #article-option-area{
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 20;
+}
+ 
+.btn.square {
+     border-radius:15px 0 0 15px;
+        border: 1px solid #AB95D4;
+}
+ 
+.input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group {
+    border-radius: 0 15px 15px 0;
+    z-index: 2;
+    margin-left: -1px;
+}
+ 
+.input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group {
+    background-color: #AB95D4;
+    border-radius: 0 15px 15px 0;
+    z-index: 2;
+    margin-left: -1px;
+}
+ 
+.input-group-btn>.btn {
+    background-color: #AB95D4;
+}
+ 
+#article-content-wrapper>.header {
+  border-top: 2px solid #AB95D4;
+}
+.fr-toolbar {
+    border-top: 5px solid #AB95D4;
+}
+.badge {
+    background-color: #AB95D4;
+}
+ 
+
+ 
+/* 진은검 가리개 */
+ 
+ 
+ 
+img[src="https://static-cdn.jtvnw.net/chat-badges/mod.png"] {
+ 
+    display: none;
+ 
+}
+
+@font-face { font-family: 'BinggraeMelona'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/BinggraeMelona.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+body {
+letter-spacing: -0.05em !important;
+  background: transparent;
+  font-family: 'BinggraeMelona', sans-serif;
+}
+
+header {
+    background-color: #001a1f;
+    border-bottom: 4px solid #ccb0ff;
+    background-image: url(https://dawsycat.github.io/css/background3.png);
+    background-size: 400px 600px;
+}
+
+header>#header-area>#header-bar-link {
+    display: inline-block;
+    text-decoration: none;
+    float: left;
+    color: #ccb0ff;
+    padding: 0 16px 8px;
+}
+header>#header-area>#header-search-link {
+    color: #ccb0ff;
+}
+#article-list #article-option-area>#article-option-area-toggle-btn {
+    display: none;
+}
+
+
+#article-reply-area #reply-real-area .reply > .reply-header > .reply-writer.logged, #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
+    font-weight: bold;
+    color: #6441a5;
+    cursor: pointer;
+}
+a {
+    color: #6441a5;
+    text-decoration: none;
+}
+/*읽은 글 색깔*/
+#article-list>.article-list-row>.item>a.list-title:visited {
+    color: #7459a5 !important;
+}
+
+#article-list>.article-list-row>.item>.list-header>span {
+    background-color: #ab95d4;
+}
+
+footer {
+    background: #ccb0ff;
+    color: #6441a5;
+    text-align: center;
+    padding: 16px 0;
+    font-size: 12px;
+}
